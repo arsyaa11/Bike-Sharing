@@ -53,8 +53,9 @@ For further information, like the background of this dataset you can check out t
 
 ### `dashboard/dashboard.py`
 1. Download this project.
-2. Install the Streamlit in your terminal or command prompt using `pip install streamlit`. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
-3. Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
-4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
+2. Install the Streamlit in your terminal or command prompt using `pip install streamlit` if you haven't installed it yet. If you have installed it, you can go to the next step
+3. Install the required libraries (you can look at requrements.txt, there is a library that I use).
+4. Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
+5. Open your VSCode and run the file by clicking the terminal and write it `streamlit run proyek_akhir.py`.
    
 You can see the results in the Screenshots folder
