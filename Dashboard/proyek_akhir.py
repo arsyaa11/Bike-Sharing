@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 sns.set(style='dark')
 
 #Menyiapkan data day_df
-day_df = pd.read_csv("ttps://raw.githubusercontent.com/arsyaa11/Bike-Sharing/main/Data/day.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/arsyaa11/Bike-Sharing/main/Data/day.csv")
 day_df.head()
 
 #Menyiapkan data hour_df
