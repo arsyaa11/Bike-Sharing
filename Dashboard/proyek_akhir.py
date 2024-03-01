@@ -9,11 +9,11 @@ from sklearn.cluster import KMeans
 sns.set(style='dark')
 
 #Menyiapkan data day_df
-day_df = pd.read_csv("day.csv")
+day_df = pd.read_csv("Dashboard/day.csv")
 day_df.head()
 
 #Menyiapkan data hour_df
-hour_df = pd.read_csv("hour.csv")
+hour_df = pd.read_csv("Dashboard/hour.csv")
 hour_df.head()
 
 #Mengubah beberapa detail tentang kolom pada day_df
